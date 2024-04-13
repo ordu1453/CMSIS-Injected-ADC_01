@@ -1,0 +1,8 @@
+../Core/Src/init.c:9:6:ADC_Inj_Init	4	static
+../Core/Src/init.c:33:6:ADC_Reg_Init	8	static
+../Core/Src/init.c:55:10:ADC_Inj_Read	16	static
+../Core/Src/init.c:69:10:ADC_Reg_Read	4	static
+../Core/Src/init.c:80:6:ADC_2Ch_Reg_Init	4	static
+../Core/Src/init.c:103:10:ADC_2Ch_Reg_Read	16	static
+../Core/Src/init.c:123:6:ADC_2Ch_Inj_Init	4	static
+../Core/Src/init.c:148:10:ADC_2Ch_Inj_Read	16	static
